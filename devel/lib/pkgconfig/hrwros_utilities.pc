@@ -1,0 +1,8 @@
+prefix=/home/casch/hrwros_ws/devel
+
+Name: hrwros_utilities
+Description: Description of hrwros_utilities
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/casch/hrwros_ws/devel/lib 
+Requires: 
