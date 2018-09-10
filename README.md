@@ -1,6 +1,6 @@
 # Robot-Operating-System
 
-[![img](image/tmp1.png)](https://youtu.be/5sMDUteMp00)
+[![img](.img/tmp1.png)](https://youtu.be/5sMDUteMp00)
 
 
 
