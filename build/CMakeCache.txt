@@ -336,25 +336,25 @@ gtest_force_shared_crt:BOOL=OFF
 gtest_main_LIB_DEPENDS:STATIC=general;-lpthread;general;gtest;
 
 //Value Computed by CMake
-hrwros_msgs_BINARY_DIR:STATIC=/home/casch/hrwros_ws/build/hrwros/hrwros_msgs
+hrwros_msgs_BINARY_DIR:STATIC=/home/casch/hrwros_ws/build/hrwros/week1_contents_new/hrwros_msgs
 
 //The directory containing a CMake configuration file for hrwros_msgs.
 hrwros_msgs_DIR:PATH=/home/casch/hrwros_ws/devel/share/hrwros_msgs/cmake
 
 //Value Computed by CMake
-hrwros_msgs_SOURCE_DIR:STATIC=/home/casch/hrwros_ws/src/hrwros/hrwros_msgs
+hrwros_msgs_SOURCE_DIR:STATIC=/home/casch/hrwros_ws/src/hrwros/week1_contents_new/hrwros_msgs
 
 //Value Computed by CMake
-hrwros_utilities_BINARY_DIR:STATIC=/home/casch/hrwros_ws/build/hrwros/hrwros_utilities
+hrwros_utilities_BINARY_DIR:STATIC=/home/casch/hrwros_ws/build/hrwros/week1_contents_new/hrwros_utilities
 
 //Value Computed by CMake
-hrwros_utilities_SOURCE_DIR:STATIC=/home/casch/hrwros_ws/src/hrwros/hrwros_utilities
+hrwros_utilities_SOURCE_DIR:STATIC=/home/casch/hrwros_ws/src/hrwros/week1_contents_new/hrwros_utilities
 
 //Value Computed by CMake
-hrwros_week1_BINARY_DIR:STATIC=/home/casch/hrwros_ws/build/hrwros/hrwros_week1
+hrwros_week1_BINARY_DIR:STATIC=/home/casch/hrwros_ws/build/hrwros/week1_contents_new/hrwros_week1
 
 //Value Computed by CMake
-hrwros_week1_SOURCE_DIR:STATIC=/home/casch/hrwros_ws/src/hrwros/hrwros_week1
+hrwros_week1_SOURCE_DIR:STATIC=/home/casch/hrwros_ws/src/hrwros/week1_contents_new/hrwros_week1
 
 //Path to a library.
 lib:FILEPATH=/opt/ros/kinetic/lib/libxmlrpcpp.so

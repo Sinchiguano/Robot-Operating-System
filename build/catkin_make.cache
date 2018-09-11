@@ -1,2 +1,2 @@
-hrwros/hrwros_msgs:hrwros/hrwros_utilities:hrwros/hrwros_week1
+hrwros/week1_contents_new/hrwros_msgs:hrwros/week1_contents_new/hrwros_utilities:hrwros/week1_contents_new/hrwros_week1
 -DCATKIN_DEVEL_PREFIX=/home/casch/hrwros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/casch/hrwros_ws/install -G Unix Makefiles

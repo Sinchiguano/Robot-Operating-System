@@ -117,9 +117,9 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/casch/hrwros_ws/build/gtest/cmake_install.cmake")
-  include("/home/casch/hrwros_ws/build/hrwros/hrwros_utilities/cmake_install.cmake")
-  include("/home/casch/hrwros_ws/build/hrwros/hrwros_msgs/cmake_install.cmake")
-  include("/home/casch/hrwros_ws/build/hrwros/hrwros_week1/cmake_install.cmake")
+  include("/home/casch/hrwros_ws/build/hrwros/week1_contents_new/hrwros_utilities/cmake_install.cmake")
+  include("/home/casch/hrwros_ws/build/hrwros/week1_contents_new/hrwros_msgs/cmake_install.cmake")
+  include("/home/casch/hrwros_ws/build/hrwros/week1_contents_new/hrwros_week1/cmake_install.cmake")
 
 endif()
 

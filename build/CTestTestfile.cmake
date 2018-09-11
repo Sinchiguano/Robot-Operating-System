@@ -5,6 +5,6 @@
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.
 subdirs(gtest)
-subdirs(hrwros/hrwros_utilities)
-subdirs(hrwros/hrwros_msgs)
-subdirs(hrwros/hrwros_week1)
+subdirs(hrwros/week1_contents_new/hrwros_utilities)
+subdirs(hrwros/week1_contents_new/hrwros_msgs)
+subdirs(hrwros/week1_contents_new/hrwros_week1)

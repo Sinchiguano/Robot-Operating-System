@@ -7,7 +7,7 @@ from sys import path as sys_path
 
 from pkgutil import extend_path
 
-__extended_path = "/home/casch/hrwros_ws/src/hrwros/hrwros_utilities/src".split(";")
+__extended_path = "/home/casch/hrwros_ws/src/hrwros/week1_contents_new/hrwros_utilities/src".split(";")
 for p in reversed(__extended_path):
     sys_path.insert(0, p)
     del p
